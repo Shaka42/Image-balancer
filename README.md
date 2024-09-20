@@ -1,0 +1,3 @@
+Image Dataset Splitter and Resizer Script
+
+This script facilitates the automated splitting and resizing of image datasets stored locally. Based on user-defined preferences, it partitions the dataset into Train, Validation, and Test subsets. Each image is resized to the specified dimensions, ensuring consistent preprocessing for machine learning tasks. This tool streamlines the preparation of image data for model training and evaluation.
